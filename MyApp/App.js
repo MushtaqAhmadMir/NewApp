@@ -6,7 +6,6 @@ import {
   ActivityIndicator,
 } from 'react-native';
 import React, {useState} from 'react';
-import Routes from './src/navigation/Routes'
 import MyScreen from './src/MyScreen';
 import ImageScreen from './src/ImageScreen';
 import { useNavigation } from '@react-navigation/native';

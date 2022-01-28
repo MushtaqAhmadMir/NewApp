@@ -19,7 +19,7 @@ export default function ImageScreen({route, navigation}) {
         <ActivityIndicator
           color={'red'}
           size={'large'}
-          style={{alignSelf: 'center', position: 'absolute'}}
+          style={{alignSelf: 'center', position: 'absolute',top:'50%'}}
         />
       )}
     </View>
